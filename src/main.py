@@ -1,9 +1,7 @@
-import tkinter
-from 
+import learning
 
 if __name__ == '__main__':
     # Sprawdzanie wersji tkinter
     # print("tk", tkinter.TkVersion)
-
-    main_window =
+    learning.odpal_okno()
 
